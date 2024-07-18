@@ -1,0 +1,45 @@
+INFO:root:Creating directory :.github\workflows for the file main.yaml
+INFO:root:Creating empty file:.github\workflows\main.yaml
+INFO:root:Creating directory :us_visa\components for the file __init__.py
+INFO:root:Creating empty file:us_visa\components\__init__.py
+INFO:root:Creating directory :us_visa\components for the file data_ingestion.py
+INFO:root:Creating empty file:us_visa\components\data_ingestion.py
+INFO:root:Creating directory :us_visa\components for the file data_transformation.py
+INFO:root:Creating empty file:us_visa\components\data_transformation.py
+INFO:root:Creating directory :us_visa\components for the file model_training.py
+INFO:root:Creating empty file:us_visa\components\model_training.py
+INFO:root:Creating directory :us_visa\components for the file model_pusher.py
+INFO:root:Creating empty file:us_visa\components\model_pusher.py
+INFO:root:Creating directory :us_visa\components for the file model_evaluator.py
+INFO:root:Creating empty file:us_visa\components\model_evaluator.py
+INFO:root:Creating directory :us_visa\constant for the file __init__.py
+INFO:root:Creating empty file:us_visa\constant\__init__.py
+INFO:root:Creating directory :us_visa\entity for the file __init__.py
+INFO:root:Creating empty file:us_visa\entity\__init__.py
+INFO:root:Creating directory :us_visa\entity for the file artifact_entity.py
+INFO:root:Creating empty file:us_visa\entity\artifact_entity.py
+INFO:root:Creating directory :us_visa\entity for the file config_entity.py
+INFO:root:Creating empty file:us_visa\entity\config_entity.py
+INFO:root:Creating directory :us_visa\pipeline for the file __init__.py
+INFO:root:Creating empty file:us_visa\pipeline\__init__.py
+INFO:root:Creating directory :us_visa\pipeline for the file training_pipeline.py
+INFO:root:Creating empty file:us_visa\pipeline\training_pipeline.py
+INFO:root:Creating directory :us_visa\pipeline for the file prediction_pipeline.py
+INFO:root:Creating empty file:us_visa\pipeline\prediction_pipeline.py
+INFO:root:Creating directory :us_visa for the file exception.py
+INFO:root:Creating empty file:us_visa\exception.py
+INFO:root:Creating directory :us_visa for the file logger.py
+INFO:root:Creating empty file:us_visa\logger.py
+INFO:root:Creating directory :experiment for the file eda.ipynb
+INFO:root:Creating empty file:experiment\eda.ipynb
+INFO:root:.gitignore is already exits
+INFO:root:requirements.txt is already exits
+INFO:root:Creating empty file:.dockerignore
+INFO:root:Creating empty file:docker
+INFO:root:Creating empty file:app.py
+INFO:root:Creating empty file:setup.py
+INFO:root:Creating empty file:main.py
+INFO:root:Creating directory :config for the file model.yaml
+INFO:root:Creating empty file:config\model.yaml
+INFO:root:Creating directory :config for the file schema.yaml
+INFO:root:Creating empty file:config\schema.yaml

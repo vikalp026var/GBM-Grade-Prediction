@@ -1,0 +1,17 @@
+tqdm
+ipykernel
+matplotlib
+scikit-learn
+opencv-python
+xgboost
+pandas
+mlflow
+Flask
+reportlab
+gunicorn
+scikit-image
+seaborn
+Pillow
+pymongo
+
+-e .

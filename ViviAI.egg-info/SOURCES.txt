@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+ViviAI.egg-info/PKG-INFO
+ViviAI.egg-info/SOURCES.txt
+ViviAI.egg-info/dependency_links.txt
+ViviAI.egg-info/top_level.txt
